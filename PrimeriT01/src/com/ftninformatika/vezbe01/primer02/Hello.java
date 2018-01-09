@@ -15,7 +15,7 @@ public class Hello {
 		System.out.println("HelloWorld " + name + "!");
 		//Primer konkatenacije stringova koja se smesta u lokalnu promenljivu
 		//pa tek onda ispisuje
-		String message = "HelloWorld " + name + "!";
+		String message = "HelloWorld " + name + "!..";
 		System.out.println(message);
 		//Specijalni karakteri se moraju eskejpovati pomocu \
 		System.out.println("HelloWorld \"" + name + "\"!");

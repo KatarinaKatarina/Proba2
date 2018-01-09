@@ -18,7 +18,7 @@ public class Hello {
 		// out je staticki atribut klase System,
 		// a println je metoda, ali o tome cemo
 		// kasnije tokom kursa
-		System.out.println("Hello world!");
+		System.out.println("Hello world!...");
 	}
 
 }
